@@ -1,15 +1,17 @@
 <div align="center">
   
-  ![Banner](YOUR_BANNER_IMAGE_URL_HERE)
+  ![Banner](https://github.com/Diogo-Serra/mywebsite_readme/blob/main/banner_readme.png)
   <!-- Upload your banner image to the repo and replace with: ![Banner](banner.png) -->
   
 </div>
 
 ---
 
+<div align="center">
+  
 # Hi, I'm Diogo Serra
 
-<div align="center">
+
   
   ### Tech Solutions Made Simple | Full-Stack Development & Technical Support
   
