@@ -42,6 +42,12 @@ Interactive platform for learning C programming with practical examples and exer
 ### [SkySeek](https://github.com/Diogo-Serra/SkySeek)
 Mobile application for real-time flight search and tracking with intuitive user interface.
 
+<p align="center">
+  <img src="images/skyseek1.png" width="280" alt="SkySeek 1"/>
+  <img src="images/skyseek2.png" width="280" alt="SkySeek 2"/>
+  <img src="images/skyseek3.png" width="280" alt="SkySeek 3"/>
+</p>
+
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Mobile](https://img.shields.io/badge/Mobile-4285F4?style=for-the-badge)
 ![API](https://img.shields.io/badge/API-009688?style=for-the-badge)
