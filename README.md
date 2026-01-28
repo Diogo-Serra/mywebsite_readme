@@ -1,7 +1,6 @@
 <div align="center">
   
-  ![Banner](https://github.com/Diogo-Serra/mywebsite_readme/images/blob/main/banner_readme.png)
-  <!-- Upload your banner image to the repo and replace with: ![Banner](banner.png) -->
+  ![Banner](images/banner_readme.png)
   
 </div>
 
@@ -53,9 +52,9 @@ Mobile application for real-time flight search and tracking with intuitive user 
 Retro gaming machine with emulation capabilities and nostalgic interface design.
 
 <p align="center">
-  <img src="images/retro1.png" width="250" alt="RetroGameMachine 1"/>
-  <img src="images/retro2.png" width="250" alt="RetroGameMachine 2"/>
-  <img src="images/retro3.png" width="250" alt="RetroGameMachine 3"/>
+  <img src="images/retro1.png" width="280" alt="RetroGameMachine 1"/>
+  <img src="images/retro2.png" width="280" alt="RetroGameMachine 2"/>
+  <img src="images/retro3.png" width="280" alt="RetroGameMachine 3"/>
 </p>
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -65,6 +64,12 @@ Retro gaming machine with emulation capabilities and nostalgic interface design.
 
 ### [PSI Production Website](https://github.com/Diogo-Serra/website-psi_prod)
 Professional website for psychology and consulting services with modern design.
+
+<p align="center">
+  <img src="images/websitepsi1.png" width="280" alt="PSI Website 1"/>
+  <img src="images/websitepsi2.png" width="280" alt="PSI Website 2"/>
+  <img src="images/websitepsi3.png" width="280" alt="PSI Website 3"/>
+</p>
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
