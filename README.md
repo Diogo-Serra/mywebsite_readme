@@ -35,7 +35,7 @@ I specialize in custom software development and professional technical support, 
 ### [C Odyssey](https://github.com/TheTimelessRecall/C-Odyssey)
 Interactive platform for learning C programming with practical examples and exercises.
 
-![C Odyssey Screenshot](https://raw.githubusercontent.com/TheTimelessRecall/C-Odyssey/main/assets/screenshot.png)
+![C Odyssey Screenshot](images/retro1.png)
 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![Education](https://img.shields.io/badge/Education-FF6B6B?style=for-the-badge)
@@ -45,7 +45,7 @@ Interactive platform for learning C programming with practical examples and exer
 ### [SkySeek](https://github.com/Diogo-Serra/SkySeek)
 Mobile application for real-time flight search and tracking with intuitive user interface.
 
-![SkySeek Screenshot](https://images.unsplash.com/photo-1436491865332-7a61a109cc05?w=800&q=80)
+![SkySeek Screenshot](images/retro2.png)
 
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Mobile](https://img.shields.io/badge/Mobile-4285F4?style=for-the-badge)
@@ -56,7 +56,7 @@ Mobile application for real-time flight search and tracking with intuitive user 
 ### [RetroGameMachine](https://github.com/Diogo-Serra/RetroGameMachine)
 Retro gaming machine with emulation capabilities and nostalgic interface design.
 
-![RetroGameMachine Screenshot](https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=800&q=80)
+![RetroGameMachine Screenshot](images/retro3.png)
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Gaming](https://img.shields.io/badge/Gaming-FF6B35?style=for-the-badge)
@@ -66,7 +66,7 @@ Retro gaming machine with emulation capabilities and nostalgic interface design.
 ### [PSI Production Website](https://github.com/Diogo-Serra/website-psi_prod)
 Professional website for psychology and consulting services with modern design.
 
-![PSI Website Screenshot](https://images.unsplash.com/photo-1573497019940-1c28c88b4f3e?w=800&q=80)
+![PSI Website Screenshot](images/retro1.png)
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -77,7 +77,7 @@ Professional website for psychology and consulting services with modern design.
 ### [Personal Portfolio](https://github.com/Diogo-Serra/mywebsite)
 Modern portfolio website with interactive animations and responsive design showcasing my work.
 
-![Portfolio Screenshot](https://images.unsplash.com/photo-1467232004584-a241de8bcf5d?w=800&q=80)
+![Portfolio Screenshot](images/retro2.png)
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
