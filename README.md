@@ -69,21 +69,6 @@ Clean and modern portfolio website to showcase professional information. Built w
 
 ---
 
-### [SkySeek](https://github.com/Diogo-Serra/SkySeek)
-Mobile application for real-time flight search and tracking with intuitive user interface.
-
-<p align="center">
-  <img src="images/skyseek1.png" width="200" alt="SkySeek 1"/>
-  <img src="images/skyseek2.png" width="200" alt="SkySeek 2"/>
-  <img src="images/skyseek3.png" width="200" alt="SkySeek 3"/>
-</p>
-
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Mobile](https://img.shields.io/badge/Mobile-4285F4?style=for-the-badge)
-![API](https://img.shields.io/badge/API-009688?style=for-the-badge)
-
----
-
 ### [RetroGameMachine](https://github.com/Diogo-Serra/RetroGameMachine)
 Transform any PC into a retro gaming console! Complete setup to play classic games from multiple vintage systems. Nostalgic interface with modern convenience.
 
@@ -95,17 +80,21 @@ Transform any PC into a retro gaming console! Complete setup to play classic gam
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Gaming](https://img.shields.io/badge/Gaming-FF6B35?style=for-the-badge)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ---
 
-### [Personal Portfolio](https://github.com/Diogo-Serra/mywebsite)
-Modern portfolio website with interactive animations and responsive design showcasing my work.
+### [SkySeek](https://github.com/Diogo-Serra/SkySeek)
+Clean AI interface for interacting with GPT API. Minimalist design inspired by DeepSeek, providing a straightforward chat experience without the complexity. Perfect for those who want direct access to AI capabilities.
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+<p align="center">
+  <img src="images/skyseek1.png" width="200" alt="SkySeek 1"/>
+  <img src="images/skyseek2.png" width="200" alt="SkySeek 2"/>
+  <img src="images/skyseek3.png" width="200" alt="SkySeek 3"/>
+</p>
+
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Mobile](https://img.shields.io/badge/Mobile-4285F4?style=for-the-badge)
+![API](https://img.shields.io/badge/API-009688?style=for-the-badge)
 
 ---
 
