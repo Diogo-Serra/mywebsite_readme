@@ -32,10 +32,34 @@ I specialize in custom software development and professional technical support, 
 ## Featured Projects
 
 ### [C Odyssey](https://github.com/TheTimelessRecall/C-Odyssey)
-Interactive platform for learning C programming with practical examples and exercises.
+A comprehensive library of algorithms in C - the perfect starting point for developers diving into low-level programming. Collection of essential data structures and algorithms to build a solid foundation.
 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![Education](https://img.shields.io/badge/Education-FF6B6B?style=for-the-badge)
+
+---
+
+### [PSI Production Website](https://github.com/Diogo-Serra/website-psi_prod)
+Full-featured clinic management system with client area and admin panel. Designed for psychology clinics but highly adaptable to any healthcare or service business. Includes appointment scheduling, patient management, and secure authentication.
+
+<p align="center">
+  <img src="images/websitepsi1.png" width="280" alt="PSI Website 1"/>
+  <img src="images/websitepsi2.png" width="280" alt="PSI Website 2"/>
+  <img src="images/websitepsi3.png" width="280" alt="PSI Website 3"/>
+</p>
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+---
+
+### [Personal Portfolio](https://github.com/Diogo-Serra/mywebsite)
+Clean and modern portfolio website to showcase professional information. Built with React and TypeScript, featuring smooth animations and fully responsive design. Perfect template for developers looking to establish their online presence.
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 ---
 
@@ -43,9 +67,9 @@ Interactive platform for learning C programming with practical examples and exer
 Mobile application for real-time flight search and tracking with intuitive user interface.
 
 <p align="center">
-  <img src="images/skyseek1.png" width="280" alt="SkySeek 1"/>
-  <img src="images/skyseek2.png" width="280" alt="SkySeek 2"/>
-  <img src="images/skyseek3.png" width="280" alt="SkySeek 3"/>
+  <img src="images/skyseek1.png" width="200" alt="SkySeek 1"/>
+  <img src="images/skyseek2.png" width="200" alt="SkySeek 2"/>
+  <img src="images/skyseek3.png" width="200" alt="SkySeek 3"/>
 </p>
 
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -55,7 +79,7 @@ Mobile application for real-time flight search and tracking with intuitive user 
 ---
 
 ### [RetroGameMachine](https://github.com/Diogo-Serra/RetroGameMachine)
-Retro gaming machine with emulation capabilities and nostalgic interface design.
+Transform any PC into a retro gaming console! Complete setup to play classic games from multiple vintage systems. Nostalgic interface with modern convenience.
 
 <p align="center">
   <img src="images/retro1.png" width="280" alt="RetroGameMachine 1"/>
@@ -65,19 +89,6 @@ Retro gaming machine with emulation capabilities and nostalgic interface design.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Gaming](https://img.shields.io/badge/Gaming-FF6B35?style=for-the-badge)
-
----
-
-### [PSI Production Website](https://github.com/Diogo-Serra/website-psi_prod)
-Professional website for psychology and consulting services with modern design.
-
-<p align="center">
-  <img src="images/websitepsi1.png" width="280" alt="PSI Website 1"/>
-  <img src="images/websitepsi2.png" width="280" alt="PSI Website 2"/>
-  <img src="images/websitepsi3.png" width="280" alt="PSI Website 3"/>
-</p>
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
