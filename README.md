@@ -57,6 +57,12 @@ Full-featured clinic management system with client area and admin panel. Designe
 ### [Personal Portfolio](https://github.com/Diogo-Serra/mywebsite)
 Clean and modern portfolio website to showcase professional information. Built with React and TypeScript, featuring smooth animations and fully responsive design. Perfect template for developers looking to establish their online presence.
 
+<p align="center">
+  <img src="images/website1.png" width="280" alt="Portfolio Website 1"/>
+  <img src="images/website2.png" width="280" alt="Portfolio Website 2"/>
+  <img src="images/website3.png" width="280" alt="Portfolio Website 3"/>
+</p>
+
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
