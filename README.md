@@ -1,3 +1,12 @@
+<div align="center">
+  
+  ![Banner](YOUR_BANNER_IMAGE_URL_HERE)
+  <!-- Upload your banner image to the repo and replace with: ![Banner](banner.png) -->
+  
+</div>
+
+---
+
 # Hi, I'm Diogo Serra
 
 <div align="center">
