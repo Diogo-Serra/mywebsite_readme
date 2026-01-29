@@ -251,35 +251,6 @@ Clean AI interface for interacting with GPT API. Minimalist design inspired by D
 ---
 
 ## Tech Stack
-  <table>
-    <tr>
-      <td align="center">
-        <a href="images/collection1.png" target="_blank">
-          <img src="images/collection1.png" width="400" alt="Collection - Hero" style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">
-        </a>
-      </td>
-      <td align="center">
-        <a href="images/collection2.png" target="_blank">
-          <img src="images/collection2.png" width="400" alt="Collection - Gallery" style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">
-        </a>
-      </td>
-      <td align="center">
-        <a href="images/collection3.png" target="_blank">
-          <img src="images/collection3.png" width="400" alt="Collection - Details" style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center"><sub><b>✨ Landing Page</b></sub></td>
-      <td align="center"><sub><b>🎨 Collection Gallery</b></sub></td>
-      <td align="center"><sub><b>📋 Item Details</b></sub></td>
-    </tr>
-  </table>
-</div>
-
----
-
-## Tech Stack
 
 ### Languages
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
