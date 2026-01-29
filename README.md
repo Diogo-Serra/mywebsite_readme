@@ -51,7 +51,9 @@ A comprehensive library of algorithms in C - the perfect starting point for deve
 ---
 
 ### [Website - admin & user dashboard](https://github.com/Diogo-Serra/website-psi_prod)
-Full-featured clinic management system with client area and admin panel. Designed for psychology clinics but highly adaptable to any healthcare or service business. Includes appointment scheduling, patient management, and secure authentication.
+Comprehensive clinic management system with dual access levels. Streamlines appointment booking, patient record management, and administrative tasks. Features secure authentication, real-time scheduling, and automated notifications. Designed for healthcare professionals but adaptable to any service-based business requiring client management and booking systems.
+
+**Key Features:** User dashboard, Admin panel, Appointment scheduling, Client management, Secure authentication
 
 <div align="center">
   <table>
@@ -73,9 +75,9 @@ Full-featured clinic management system with client area and admin panel. Designe
       </td>
     </tr>
     <tr>
-      <td align="center"><sub><b>🏠 Home Interface</b></sub></td>
-      <td align="center"><sub><b>📊 Client Dashboard</b></sub></td>
-      <td align="center"><sub><b>⚙️ Admin Panel</b></sub></td>
+      <td align="center"><sub><b>Home Interface</b></sub></td>
+      <td align="center"><sub><b>Client Dashboard</b></sub></td>
+      <td align="center"><sub><b>Admin Panel</b></sub></td>
     </tr>
   </table>
 </div>
@@ -83,7 +85,9 @@ Full-featured clinic management system with client area and admin panel. Designe
 ---
 
 ### [Website - Simple portfolio](https://github.com/Diogo-Serra/mywebsite)
-Clean and modern portfolio website to showcase professional information. Built with React and TypeScript, featuring smooth animations and fully responsive design. Perfect template for developers looking to establish their online presence.
+Minimalist single-page portfolio for professionals and freelancers. Showcases services, skills, and contact information in a clean, modern layout. Fast-loading with smooth scroll navigation and responsive design. Ideal for consultants, developers, designers, or any professional needing an online presence.
+
+**Key Features:** Hero section, About section, Services showcase, Skills display, Contact form, Smooth animations
 
 <div align="center">
   <table>
@@ -105,9 +109,9 @@ Clean and modern portfolio website to showcase professional information. Built w
       </td>
     </tr>
     <tr>
-      <td align="center"><sub><b>✨ Hero Section</b></sub></td>
-      <td align="center"><sub><b>💼 Projects Gallery</b></sub></td>
-      <td align="center"><sub><b>📬 Contact Form</b></sub></td>
+      <td align="center"><sub><b>Hero Section</b></sub></td>
+      <td align="center"><sub><b>Projects Gallery</b></sub></td>
+      <td align="center"><sub><b>Contact Form</b></sub></td>
     </tr>
   </table>
 </div>
@@ -115,7 +119,9 @@ Clean and modern portfolio website to showcase professional information. Built w
 ---
 
 ### [Website - Space Exploration Missions Hub](https://github.com/Diogo-Serra/website-eventsinscriptions)
-Interactive space exploration website with live mission tracking, planetary explorer, and launch schedules. Built with React and TypeScript, featuring real-time mission progress, statistics, and beautiful space-themed design with glassmorphism effects.
+Dynamic event and information hub with interactive content display. Features mission cards with filtering, interactive explorer section, timeline visualization, statistics dashboard, and newsletter subscription. Modern glassmorphism design with smooth animations. Adaptable for events, conferences, product launches, or any content that benefits from visual storytelling and engagement.
+
+**Key Features:** Hero banner with countdown, Interactive cards with details modal, Timeline display, Statistics showcase, Newsletter signup, Filtering system
 
 <div align="center">
   <table>
@@ -137,9 +143,9 @@ Interactive space exploration website with live mission tracking, planetary expl
       </td>
     </tr>
     <tr>
-      <td align="center"><sub><b>🚀 Hero Section</b></sub></td>
-      <td align="center"><sub><b>🛰️ Live Missions</b></sub></td>
-      <td align="center"><sub><b>📅 Mission Timeline</b></sub></td>
+      <td align="center"><sub><b>Hero Section</b></sub></td>
+      <td align="center"><sub><b>Live Missions</b></sub></td>
+      <td align="center"><sub><b>Mission Timeline</b></sub></td>
     </tr>
   </table>
 </div>
@@ -147,7 +153,9 @@ Interactive space exploration website with live mission tracking, planetary expl
 ---
 
 ### [Website - Collection Catalog](https://github.com/Diogo-Serra/website-collectioncatalog)
-Modern, minimalist website showcasing a collection catalog with smooth navigation and elegant design. Features a clean hero section, about information, collection gallery with detailed views, and contact form. Perfect template for showcasing products or portfolios.
+Elegant presentation website with multiple content sections and smooth navigation. Simple structure includes hero landing, about section, collection/product gallery, and contact form. Clean minimalist design that puts content first. Suitable for small businesses, boutiques, artists, or anyone needing a professional web presence without complexity.
+
+**Key Features:** Landing page, About section, Collection display, Contact form, Smooth scroll navigation, Responsive layout
 
 <div align="center">
   <table>
@@ -169,9 +177,9 @@ Modern, minimalist website showcasing a collection catalog with smooth navigatio
       </td>
     </tr>
     <tr>
-      <td align="center"><sub><b>✨ Landing Page</b></sub></td>
-      <td align="center"><sub><b>🎨 Collection Gallery</b></sub></td>
-      <td align="center"><sub><b>📋 Item Details</b></sub></td>
+      <td align="center"><sub><b>Landing Page</b></sub></td>
+      <td align="center"><sub><b>Collection Gallery</b></sub></td>
+      <td align="center"><sub><b>Item Details</b></sub></td>
     </tr>
   </table>
 </div>
@@ -201,9 +209,9 @@ Transform any PC into a retro gaming console! Complete setup to play classic gam
       </td>
     </tr>
     <tr>
-      <td align="center"><sub><b>🎮 Main Menu</b></sub></td>
-      <td align="center"><sub><b>📚 Game Library</b></sub></td>
-      <td align="center"><sub><b>🕹️ In Action</b></sub></td>
+      <td align="center"><sub><b>Main Menu</b></sub></td>
+      <td align="center"><sub><b>Game Library</b></sub></td>
+      <td align="center"><sub><b>In Action</b></sub></td>
     </tr>
   </table>
 </div>
@@ -233,9 +241,9 @@ Clean AI interface for interacting with GPT API. Minimalist design inspired by D
       </td>
     </tr>
     <tr>
-      <td align="center"><sub><b>💬 Chat Interface</b></sub></td>
-      <td align="center"><sub><b>🤖 AI Conversation</b></sub></td>
-      <td align="center"><sub><b>⚡ Settings</b></sub></td>
+      <td align="center"><sub><b>Chat Interface</b></sub></td>
+      <td align="center"><sub><b>AI Conversation</b></sub></td>
+      <td align="center"><sub><b>Settings</b></sub></td>
     </tr>
   </table>
 </div>
