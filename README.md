@@ -47,12 +47,6 @@ From web applications to mobile apps and system automation, I deliver solutions 
 
 ## 🚀 Featured Projects
 
-<div align="center">
-  <sub>Click on any project image to visit my website and learn more!</sub>
-</div>
-
-<br>
-
 ### [C Odyssey](https://github.com/TheTimelessRecall/C-Odyssey)
 A comprehensive library of algorithms in C - the perfect starting point for developers diving into low-level programming. Collection of essential data structures and algorithms to build a solid foundation.
 
@@ -65,17 +59,17 @@ Full-featured clinic management system with client area and admin panel. Designe
   <table>
     <tr>
       <td align="center">
-        <a href="https://techsuporte.net/#home" target="_blank">
+        <a href="images/websitepsi1.png" target="_blank">
           <img src="images/websitepsi1.png" width="400" alt="PSI Website - Home" style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">
         </a>
       </td>
       <td align="center">
-        <a href="https://techsuporte.net/#home" target="_blank">
+        <a href="images/websitepsi2.png" target="_blank">
           <img src="images/websitepsi2.png" width="400" alt="PSI Website - Dashboard" style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">
         </a>
       </td>
       <td align="center">
-        <a href="https://techsuporte.net/#home" target="_blank">
+        <a href="images/websitepsi3.png" target="_blank">
           <img src="images/websitepsi3.png" width="400" alt="PSI Website - Admin" style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">
         </a>
       </td>
@@ -88,10 +82,6 @@ Full-featured clinic management system with client area and admin panel. Designe
   </table>
 </div>
 
-<div align="center">
-  <sub>💡 <i>Click any image to visit my website!</i></sub>
-</div>
-
 ---
 
 ### [Personal Portfolio](https://github.com/Diogo-Serra/mywebsite)
@@ -101,17 +91,17 @@ Clean and modern portfolio website to showcase professional information. Built w
   <table>
     <tr>
       <td align="center">
-        <a href="https://techsuporte.net/#home" target="_blank">
+        <a href="images/website1.png" target="_blank">
           <img src="images/website1.png" width="400" alt="Portfolio - Hero Section" style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">
         </a>
       </td>
       <td align="center">
-        <a href="https://techsuporte.net/#home" target="_blank">
+        <a href="images/website2.png" target="_blank">
           <img src="images/website2.png" width="400" alt="Portfolio - Projects" style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">
         </a>
       </td>
       <td align="center">
-        <a href="https://techsuporte.net/#home" target="_blank">
+        <a href="images/website3.png" target="_blank">
           <img src="images/website3.png" width="400" alt="Portfolio - Contact" style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">
         </a>
       </td>
@@ -124,10 +114,6 @@ Clean and modern portfolio website to showcase professional information. Built w
   </table>
 </div>
 
-<div align="center">
-  <sub>💡 <i>Click any image to visit my website!</i></sub>
-</div>
-
 ---
 
 ### [RetroGameMachine](https://github.com/Diogo-Serra/RetroGameMachine)
@@ -137,17 +123,17 @@ Transform any PC into a retro gaming console! Complete setup to play classic gam
   <table>
     <tr>
       <td align="center">
-        <a href="https://techsuporte.net/#home" target="_blank">
+        <a href="images/retro1.png" target="_blank">
           <img src="images/retro1.png" width="400" alt="RetroGameMachine - Menu" style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">
         </a>
       </td>
       <td align="center">
-        <a href="https://techsuporte.net/#home" target="_blank">
+        <a href="images/retro2.png" target="_blank">
           <img src="images/retro2.png" width="400" alt="RetroGameMachine - Games" style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">
         </a>
       </td>
       <td align="center">
-        <a href="https://techsuporte.net/#home" target="_blank">
+        <a href="images/retro3.png" target="_blank">
           <img src="images/retro3.png" width="400" alt="RetroGameMachine - Gameplay" style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">
         </a>
       </td>
@@ -160,10 +146,6 @@ Transform any PC into a retro gaming console! Complete setup to play classic gam
   </table>
 </div>
 
-<div align="center">
-  <sub>💡 <i>Click any image to visit my website!</i></sub>
-</div>
-
 ---
 
 ### [SkySeek](https://github.com/Diogo-Serra/SkySeek)
@@ -173,17 +155,17 @@ Clean AI interface for interacting with GPT API. Minimalist design inspired by D
   <table>
     <tr>
       <td align="center">
-        <a href="https://techsuporte.net/#home" target="_blank">
+        <a href="images/skyseek1.png" target="_blank">
           <img src="images/skyseek1.png" width="340" alt="SkySeek - Chat Interface" style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">
         </a>
       </td>
       <td align="center">
-        <a href="https://techsuporte.net/#home" target="_blank">
+        <a href="images/skyseek2.png" target="_blank">
           <img src="images/skyseek2.png" width="340" alt="SkySeek - Conversation" style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">
         </a>
       </td>
       <td align="center">
-        <a href="https://techsuporte.net/#home" target="_blank">
+        <a href="images/skyseek3.png" target="_blank">
           <img src="images/skyseek3.png" width="340" alt="SkySeek - Settings" style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">
         </a>
       </td>
@@ -196,9 +178,30 @@ Clean AI interface for interacting with GPT API. Minimalist design inspired by D
   </table>
 </div>
 
-<div align="center">
-  <sub>💡 <i>Click any image to visit my website!</i></sub>
-</div>
+---
+
+## Tech Stack
+
+### Languages
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### Frameworks & Libraries
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+
+### Databases & Tools
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
 
