@@ -82,7 +82,7 @@ Full-featured clinic management system with client area and admin panel. Designe
 
 ---
 
-### [Simple website](https://github.com/Diogo-Serra/mywebsite)
+### [Website - Simple portfolio](https://github.com/Diogo-Serra/mywebsite)
 Clean and modern portfolio website to showcase professional information. Built with React and TypeScript, featuring smooth animations and fully responsive design. Perfect template for developers looking to establish their online presence.
 
 <div align="center">
@@ -114,7 +114,7 @@ Clean and modern portfolio website to showcase professional information. Built w
 
 ---
 
-### [Space Exploration Missions Hub](https://github.com/Diogo-Serra/website-eventsinscriptions)
+### [Website - Space Exploration Missions Hub](https://github.com/Diogo-Serra/website-eventsinscriptions)
 Interactive space exploration website with live mission tracking, planetary explorer, and launch schedules. Built with React and TypeScript, featuring real-time mission progress, statistics, and beautiful space-themed design with glassmorphism effects.
 
 <div align="center">
@@ -146,7 +146,7 @@ Interactive space exploration website with live mission tracking, planetary expl
 
 ---
 
-### [Collection Catalog Website](https://github.com/Diogo-Serra/website-collectioncatalog)
+### [Website - Collection Catalog](https://github.com/Diogo-Serra/website-collectioncatalog)
 Modern, minimalist website showcasing a collection catalog with smooth navigation and elegant design. Features a clean hero section, about information, collection gallery with detailed views, and contact form. Perfect template for showcasing products or portfolios.
 
 <div align="center">
