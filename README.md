@@ -242,42 +242,7 @@ Clean AI interface for interacting with GPT API. Minimalist design inspired by D
 
 ---
 
-### [Space Exploration Missions Hub](https://github.com/Diogo-Serra/website-eventsinscriptions)
-Interactive space exploration website with live mission tracking, planetary explorer, and launch schedules. Built with React and TypeScript, featuring real-time mission progress, statistics, and beautiful space-themed design with glassmorphism effects.
-
-<div align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <a href="images/events1.png" target="_blank">
-          <img src="images/events1.png" width="400" alt="Space Missions - Hero" style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">
-        </a>
-      </td>
-      <td align="center">
-        <a href="images/events2.png" target="_blank">
-          <img src="images/events2.png" width="400" alt="Space Missions - Live Missions" style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">
-        </a>
-      </td>
-      <td align="center">
-        <a href="images/events3.png" target="_blank">
-          <img src="images/events3.png" width="400" alt="Space Missions - Timeline" style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center"><sub><b>🚀 Hero Section</b></sub></td>
-      <td align="center"><sub><b>🛰️ Live Missions</b></sub></td>
-      <td align="center"><sub><b>📅 Mission Timeline</b></sub></td>
-    </tr>
-  </table>
-</div>
-
----
-
-### [Collection Catalog Website](https://github.com/Diogo-Serra/website-collectioncatalog)
-Modern, minimalist website showcasing a collection catalog with smooth navigation and elegant design. Features a clean hero section, about information, collection gallery with detailed views, and contact form. Perfect template for showcasing products or portfolios.
-
-<div align="center">
+## Tech Stack
   <table>
     <tr>
       <td align="center">
