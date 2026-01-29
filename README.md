@@ -50,7 +50,7 @@ A comprehensive library of algorithms in C - the perfect starting point for deve
 
 ---
 
-### [Website - admin & user panels - management](https://github.com/Diogo-Serra/website-psi_prod)
+### [Website - admin & user dashboard](https://github.com/Diogo-Serra/website-psi_prod)
 Full-featured clinic management system with client area and admin panel. Designed for psychology clinics but highly adaptable to any healthcare or service business. Includes appointment scheduling, patient management, and secure authentication.
 
 <div align="center">
